@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I'm currently looking for a **12-week internship** starting in April 2021 as a **software developer** to validate my two-year technical degree before entering engineering school 🎓
-
 ---
 
 📧 [contact@jorick.fr](mailto:contact@jorick.fr)
